@@ -1,0 +1,19 @@
+# Project exclude paths
+/01.webpack初体验/node_modules/
+/02.打包样式资源/build/
+/02.打包样式资源/node_modules/
+/03.webpack_html/build/
+/03.webpack_html/node_modules/
+/04.打包图片资源/build/
+/04.打包图片资源/node_modules/
+/05.打包其他代码/build/
+/06.devServer/build/
+/06.devServer/node_modules/
+/07.开发环境配置/build/js/
+/07.开发环境配置/node_modules/
+/08.提取css成单独文件/build/js/
+/08.提取css成单独文件/node_modules/
+/09.css兼容性处理/build/js/
+/09.css兼容性处理/node_modules/
+/10.压缩css/build/js/
+/10.压缩css/node_modules/
